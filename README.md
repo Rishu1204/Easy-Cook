@@ -15,4 +15,4 @@ e.) After execution your terminal shows a localhost link Click on that link and 
 ![6](https://github.com/Rishu1204/Easy-Cook/assets/104202825/873ad6c4-c8c5-4bba-b5ec-3c98b2f5a93a)<br/>
 ![7](https://github.com/Rishu1204/Easy-Cook/assets/104202825/de678811-ea99-442c-899a-eaadc09d3c56)<br/>
 
-### This Project is a Replica of Forkify-Master. basically to understand the concepts of node i have recreated this project and currently trying to add some new features to it. 
+### This Project is a Replica of Forkify-Master. basically to understand the concepts of node i have recreated this project and currently trying to add some new features to it. Credits-  Forkify Master
