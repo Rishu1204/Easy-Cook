@@ -1,108 +1,18 @@
-<h1 align="center">Forkify App</h1>
-<p align="center">
-    <img src="./src/img/favicon.png" alt="Logo" width="15%" height="auto">
- </p>
+# Easy Cook
+It is a website for food enthusiast where we analyze innovative recipe, ingredient quantity, according to the person requirements such as (What’s needed and How much), with proper documentation of the project.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/version-2.0.0-blue.svg?cacheSeconds=2592000" />
-  <a href="https://forkify-alamin.netlify.app/" target="_blank">
-    <img alt="Demo" src="https://img.shields.io/badge/demo-online-green.svg" />
-  </a>
-  <a href="https://github.com/CodePapa360/Forkify-Recipe-App#readme" target="_blank">
-    <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
-  </a>
-  <a href="https://github.com/CodePapa360/Forkify-Recipe-App/graphs/commit-activity" target="_blank">
-    <img alt="Maintenance" src="https://img.shields.io/badge/maintained-yes-green.svg" />
-  </a>
-  <a href="https://github.com/CodePapa360/Forkify-Recipe-App/blob/master/LICENSE" target="_blank">
-    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
-  </a>
-  <a href="https://twitter.com/CodePapa360" target="_blank">
-    <img alt="Twitter: CodePapa360" src="https://img.shields.io/twitter/follow/CodePapa360.svg?style=social" />
-  </a>
-</p>
+## To Run This Project 
+a.) Download this Zip File <br/>
+b.) Open Project in VsCode or any Code Editor <br/>
+c.) Make sure You have downloaded Node and copy paste the address of bin folder in Environmental Variables of your system <br/>
+d.) Now Open New Terminal and Type **npm install** after execution type **npm start** <br/>
+e.) After execution your terminal shows a localhost link Click on that link and the project will be opened in your Browser <br/>
+![1](https://github.com/Rishu1204/Easy-Cook/assets/104202825/ae047ec0-4c81-41dc-8818-52d90f1c1208)<br/>
+![2](https://github.com/Rishu1204/Easy-Cook/assets/104202825/faddef96-fe1f-400e-bb6c-23bfc16c6955)<br/>
+![3](https://github.com/Rishu1204/Easy-Cook/assets/104202825/4629f0b5-55e0-4dc2-8e0c-a87c0412175e)<br/>
+![4](https://github.com/Rishu1204/Easy-Cook/assets/104202825/1f254fa1-660d-4eac-8211-5f4a3de86d96)<br/>
+![5](https://github.com/Rishu1204/Easy-Cook/assets/104202825/58425d96-5cd1-4bc4-95d9-4f57780000c5) <br/>
+![6](https://github.com/Rishu1204/Easy-Cook/assets/104202825/873ad6c4-c8c5-4bba-b5ec-3c98b2f5a93a)<br/>
+![7](https://github.com/Rishu1204/Easy-Cook/assets/104202825/de678811-ea99-442c-899a-eaadc09d3c56)<br/>
 
-<h2 align="center">
-Check out the <a href="https://forkify-alamin.netlify.app/" target="_blank">live Forkify App here</a>.
-</h2>
-<p align="left">
-Forkify is a recipe search and saving app, built with HTML5, CSS3, and JavaScript. It features an intuitive user interface and dynamic serving size adjustment. The app uses advanced JavaScript concepts like asynchronous programming, ES6 modules, and object-oriented programming. Forkify was created by Jonas Smechmann in his Udemy course and this app was built as part of a personal project to learn JavaScript.
-</p>
-
-## Features
-
-- Search for recipes: Find recipes using keywords or ingredients.
-- View recipe details: See ingredients, cooking instructions, and serving size.
-- Bookmark recipes: Save your favorite recipes for later.
-- Add recipes: Create and share your own recipes.
-- Pagination: Easily navigate search results.
-- Responsive Design
-
-## Built with
-
-- JavaScript
-- CSS3
-- HTML5
-- Parcel
-- NPM
-
-<p align="center">
-  <img alt="Forkify App" src="./src/img/forkify-alamin-screenshot.png" width="100%" />
-</p>
-
-## Flowchart
-
-<p align="center">
-  <img alt="Flowchart" src="./forkify-flowchart-part-3.png" width="100%" />
-</p>
-
-## Recipe Loading Architecture
-
-<p align="center">
-  <img alt="Recipe Loading Architecture" src="./forkify-architecture-recipe-loading.png" width="100%" />
-</p>
-
-## Installation
-
-- Clone this repo:
-
-```sh
-git clone https://github.com/CodePapa360/Forkify-Recipe-App.git
-```
-
-- Install dependencies:
-
-```sh
-npm install
-```
-
-- Run the app:
-
-```sh
-npm start
-```
-
-## Author
-
-<b>👤 Alamin</b>
-
-- LinkedIn - [@CodePapa360](https://www.linkedin.com/in/codepapa360)
-- Twitter - [@CodePapa360](https://www.twitter.com/CodePapa360)
-- Frontend Mentor - [@CodePapa360](https://www.frontendmentor.io/profile/CodePapa360)
-- Github: [@CodePapa360](https://github.com/codepapa360)
-
-Feel free to contact me with any questions or feedback!
-
-## Credits
-
-This app was created as part of [Jonas Smechmann](https://twitter.com/jonasschmedtman)'s Udemy course [The Complete JavaScript Course 2023: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/).
-
-Special thanks to Jonas for his excellent teaching and guidance throughout the course.
-
-## Show your support
-
-Give a ⭐️ if you liked this project!
-
-## License
-
-This project is [MIT](https://github.com/codepapa360/Forkify-Recipe-App/blob/master/LICENSE) licensed.
+### This Project is a Replica of Forkify-Master. basically to understand the concepts of node i have recreated this project and currently trying to add some new features to it. 
